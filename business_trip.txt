@@ -1,0 +1,4 @@
+
+Location                  Days     Hotel      Meal     Total
+New York City                3         $649.20         $220.80         $870.00
+Los Angeles, Califor         2         $441.11         $51.59         $492.70
